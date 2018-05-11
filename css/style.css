@@ -145,3 +145,26 @@ footer {
 .max-width-100 {
     max-width: 100%;
 }
+
+.profil {
+    position: fixed;
+    background: url(images/carré.jpg);
+    z-index: 100;
+}
+
+.profil .menu_gauche {
+    position: absolute;
+    width: calc(100% - 128px);
+    left: 64px;
+    bottom: 64px;
+}
+
+.profil .menu_gauche .deroulant {
+    float: right;
+}
+
+.row2 {
+    padding-top: 6rem;
+    padding-left: 1rem;
+    position: relative;
+}

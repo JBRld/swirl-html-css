@@ -1,0 +1,102 @@
+body,html{
+    padding: 0%;
+    margin: 0%;
+}
+
+.block_top{
+    background-color: dimgray;
+    padding-bottom: 30px;
+}
+
+.br{
+    background-color: dimgray;
+    padding-bottom: 20px;
+}
+
+.block_left{
+    background-color: dimgray;
+}
+
+.block_right{
+    background-color: gainsboro;
+}
+
+.radius{
+    box-shadow: 0 0 30px 0;
+    border-top-left-radius: 3%!important;
+    border-bottom-left-radius: 3%!important;
+}
+
+.dec{
+    padding-left: 60px;
+}
+
+.id{
+    text-align: center
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: yellow !important;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 60px;
+    color: black;
+}
+
+h4{
+    color: black;
+}
+
+.title{
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+    color: gainsboro;
+}
+
+.nom{
+    padding-left: 70px;
+    font-size: 20px;
+}
+
+.logo{
+    height: 45px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.logo2{
+    margin-right: 20px;
+    height: 45px;
+    width: 45px;
+}
+
+.logo3{
+    padding-right: 20px;
+    height: 45px;
+}
+
+.titre{
+    padding-top: 80px;
+    padding-left: 150px;
+    font-size: 40px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.texte{
+    padding-left: 190px;
+    padding-right: 500px;
+    text-align: justify;
+}
+
+.copyright{
+    background-color: dimgray;
+}
